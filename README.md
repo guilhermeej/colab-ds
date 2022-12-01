@@ -1,2 +1,4 @@
-# colab-ds
-this repository was created to learning data science
+# About
+This descriptive analysis starts my data scientist trail
+# How to use
+Open with Google Colab
